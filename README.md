@@ -1,5 +1,12 @@
-### Hi there 👋
+### Justin Mach
+**`Developer | Artist | Creator`**
 
+I'm a developer with a passion to create. After working in the big leagues for the past 2 years, I've decided to take what I've learned and apply it to being an indie developer.
+
+<p align="left>
+          <a href="https://youtube.com/c">
+                                         <img alt="youtube:" title="Subscribe to my Youtube Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE60328n17ZGcfg?color=%23E05D44&labelColor=CE4630"></a>
+</p>
 <!--
 **justinpmach/justinpmach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
