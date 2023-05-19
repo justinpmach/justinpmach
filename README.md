@@ -4,10 +4,6 @@
 I'm a developer with a passion to create. After working in the big leagues for the past 2 years, I've decided to take what I've learned and apply it to being an indie developer.
 
 <p align="center">
-  <a href="https://www.youtube.com/@justinm2998">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/@justinm2008">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/justinpmach?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/justinpmach?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/justinpmach?tab=followers">
