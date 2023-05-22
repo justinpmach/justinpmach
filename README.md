@@ -3,7 +3,7 @@
 
 I'm a hungry developer with a passion to create. 
 <br>
-After working in the big leagues for the past 2 years, I've decided to take my own path with the same drive but with a new persepective from difficult experiences.
+After working in the big leagues for the past 2 years, I've decided to take my own path but with a new persepective from difficult experiences.
 
 <p align="center">
   <a href="https://github.com/justinpmach?tab=repositories&sort=stargazers">
