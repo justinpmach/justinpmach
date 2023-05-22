@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=78AEF7&center=true&vCenter=true&width=435&lines=developer+...+artist+...+creator)](https://git.io/typing-svg)
 
 I'm a hungry developer with a passion to create. 
+<br>
 After working in the big leagues for the past 2 years, I've decided to take my own path with the same thirsty ambition but with a new persepective from hard experiences.
 
 <p align="center">
