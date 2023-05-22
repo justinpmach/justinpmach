@@ -1,5 +1,5 @@
 ### Justin Mach
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=78AEF7&center=true&vCenter=true&width=435&lines=developer+...+artist+...+creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=78AEF7&center=true&vCenter=true&width=435&lines=hungry+...+experienced+...+developer)](https://git.io/typing-svg)
 
 I'm a hungry developer with a passion to create. 
 <br>
