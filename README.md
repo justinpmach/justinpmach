@@ -1,4 +1,5 @@
 ### Justin Mach
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47719F&background=FFFFFF00&center=true&vCenter=true&width=435&lines=developer+%7C+artist+%7C+thinker)](https://git.io/typing-svg)
 
 Just another hungry developer with a passion to create. After working in the big leagues for the past 2 years, I've decided to take my own path.
@@ -6,6 +7,7 @@ Just another hungry developer with a passion to create. After working in the big
 <p align="center">
   <a href="https://github.com/justinpmach?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/justinpmach?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  
   <a href="https://github.com/justinpmach?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/justinpmach?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <!--   <a href="https://github.com/justinpmach/Simple-View-Counter">
