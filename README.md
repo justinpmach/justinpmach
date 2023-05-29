@@ -1,7 +1,7 @@
 ### Justin Mach
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47719F&background=FFFFFF00&center=true&vCenter=true&width=435&lines=developer+%7C+artist+%7C+thinker)](https://git.io/typing-svg)
 
-I'm a hungry developer with a passion to create. After working in the big leagues for the past 2 years, I've decided to take my own path.
+Just another hungry developer with a passion to create. After working in the big leagues for the past 2 years, I've decided to take my own path.
 
 <p align="center">
   <a href="https://github.com/justinpmach?tab=repositories&sort=stargazers">
