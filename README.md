@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47719F&background=FFFFFF00&center=true&vCenter=true&width=435&lines=developer+%7C+artist+%7C+thinker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47719F&background=FFFFFF00&center=true&vCenter=true&width=435&lines=developer+%7C+artist)](https://git.io/typing-svg)
 <h3 align="center">Just a hungry developer with a passion to create. After working in the big leagues for the past 2 years, I've decided to take my own path.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinpmach&label=Profile%20views&color=0e75b6&style=flat" alt="justinpmach" /> </p>
