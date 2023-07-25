@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/justinpmach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justinpmach" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages:</h3>
 <p align="left">
 <!-- HTML5 -->
