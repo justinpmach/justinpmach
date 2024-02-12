@@ -8,7 +8,8 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justinpmach" alt="justinpmach" /></a> </p> -->
 
 - 📫 Contact **justin.mach.dev@gmail.com**
-- ⚡ DevFolio **justinpmach.github.io**
+- ⚡ DevFolio V2 **https://jm-devfolio.vercel.app/**
+- ⚡ DevFolio V1**justinpmach.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
