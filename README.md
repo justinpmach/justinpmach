@@ -9,7 +9,7 @@
 
 - 📫 Contact **justin.mach.dev@gmail.com**
 - ⚡ DevFolio V2 **https://jm-devfolio.vercel.app/**
-- ⚡ DevFolio V1**justinpmach.github.io**
+- ⚡ DevFolio V1 **justinpmach.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
